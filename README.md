@@ -2,4 +2,4 @@
 
 Call dynamically loaded functions
 
-[worm](https://github.com/dmparrishphd/source.call-WORM)
+[WORM](https://github.com/dmparrishphd/source.call-WORM)
